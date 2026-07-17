@@ -39,20 +39,22 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-```cpp
-// Building systems and solving problems...
+<hr></hr>
 
-#include <iostream>
-#include <vector>
-using namespace std;
+### 📈 GitHub Stats
 
-class MohamedAdly {
-public:
-    string role = "Founder of Dawrak Queue Management System";
-    vector<string> core_skills = {"Problem Solving", "Full-Stack Web Dev", "App Dev"};
-    vector<string> tech_stack = {"C++", "Dart", "Node.js", "Angular", "MongoDB", "Flutter"};
+<div align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
 
-    void status() {
-        cout << "Grinding Codeforces and building Dawrak!" << endl;
-    }
-};
+<br>
+
+<div align="center">
+  <strong> Code Cycle </strong><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Broken system!"/> Write Code ⚙️ 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It's working!"/> Debug 🐛 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="It's working but you don't know how!"/> Fix 🚀
+</div>
