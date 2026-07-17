@@ -13,7 +13,7 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=MohamedAhmed-25&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Adly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-adly-12b922318?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Mohamed_Adly-red?style=flat&logo=codeforces)](https://codeforces.com/profile/MOHAMED_022)
 [![telegram badge](https://img.shields.io/badge/Telegram-Mohamed_Adly-grey?style=flat&logo=telegram)](https://t.me/@Mohamed_000011) <br>
@@ -45,8 +45,8 @@
 
 <div align="center">
   <a href="https://github.com/MohamedAhmed-25">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MohamedAhmed-25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAhmed-25&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </div>
 
