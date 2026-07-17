@@ -14,9 +14,9 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Adly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Adly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-adly-12b922318?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Mohamed_Adly-red?style=flat&logo=codeforces)](https://codeforces.com/profile/MOHAMED_022)
-[![telegram badge](https://img.shields.io/badge/Telegram-Mohamed_Adly-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM_HANDLE) <br>
+[![telegram badge](https://img.shields.io/badge/Telegram-Mohamed_Adly-grey?style=flat&logo=telegram)](https://t.me/@Mohamed_000011) <br>
 </div>
 
 <hr></hr>
