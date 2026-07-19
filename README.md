@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">Hi 👋, I'm Mohamed Adly</h1>
-<h3 align="center">CS Student | Software Engineer | Founder of Dawrak | Competitive Programmer</h3>
+<h3 align="center">CS Student | Cyber Security Engineer | Founder of Dawrak | Competitive Programmer</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
