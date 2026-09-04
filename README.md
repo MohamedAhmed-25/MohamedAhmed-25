@@ -4,7 +4,7 @@
 <h3 align="center">CS Student | Penetration Tester | Founder of Dawrak | Competitive Programmer</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohamed%20Adly&fontSize=60)
 
 <details>
 <p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
@@ -16,7 +16,7 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=MohamedAhmed-25&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Adly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-adly-12b922318?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Mohamed_Adly-red?style=flat&logo=codeforces)](https://codeforces.com/profile/MOHAMED_022)
-[![telegram badge](https://img.shields.io/badge/Telegram-Mohamed_Adly-grey?style=flat&logo=telegram)](https://t.me/@Mohamed_000011) <br>
+
 </div>
 
 <hr></hr>
