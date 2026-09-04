@@ -4,7 +4,7 @@
 <h3 align="center">CS Student | Penetration Tester | Founder of Dawrak | Competitive Programmer</h3>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohamed%20Adly&fontSize=60)
+
 
 <details>
 <p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
